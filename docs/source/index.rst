@@ -11,6 +11,9 @@ Contents
 -------- 
 
 .. toctree::
+   :hidden:
+   :glob:
+
    gettingStarted
    bom
    assembly
