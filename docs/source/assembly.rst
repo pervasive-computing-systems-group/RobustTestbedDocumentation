@@ -2,6 +2,7 @@ UAV Assembly
 ====================
 
 Lets build a drone!
+
 .. note::
 
    This project is under active development.
@@ -88,16 +89,30 @@ Stir the two parts of the JB thoroughly; after mixing use your stir stick to coa
 a thin ring of JB weld around the rod. If there isn't you need more JB. Use a paper towel to remove any excess JB. Repeat the process for the arm
 mount. Note: the Motor mount takes more glue then the arm mount. After both sides have been glued rotate the pieces so the tape aligns with the 
 top of the motor & arm mount. Slowly insert the glued assembly into the mold. Push firmly to ensure the mounts lay flat within the mold. Repeat the process
-for the other 3 arms. Below is an image of the finished arm assemblies after glue.
+for the other 3 arms. Final notes
+
+.. note::
+
+  Don't use too much glue without wiping it away before putting it in the mold or the arm will glue itself to the mold
 
 .. image:: images/GluedArmsinMold.jpg
   :width: 400
   :alt: Glued Arms in Molds
 
-After waiting 24 hours for a full cure before removing the arms from the molds. The glued arms should look like the following:
-TODO: Add image
+After waiting 24 hours for a full cure before removing the arms from the molds. To remove the arms use the tape to pull the arms out or
+insert two rods into the holes in the bottom of the mold while pressing against the mold to pop the arm out of the mold.
 
-**Subsubsubsection 1.1.1**
+**Heat Set Inserts**
+
+Before getting started, go over the following resources on how to use thermoplastic heat set inserts. 
+
+..  youtube:: hwq15qH-4x4
+    :width: 100%
+
+Additionally there is a l and make a jig 
+
+https://learn.adafruit.com/heat-set-rig?view=all
+
 
 Landing Legs
 ''''''''''''''''''

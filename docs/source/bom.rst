@@ -1,5 +1,5 @@
 Bill of Materials
-================
+===================
 
 Things you need and tools
 
@@ -10,6 +10,6 @@ Things you need and tools
 
 Machine parts:
 
-**Cutting the Carbon Rods **
+**Cutting the Carbon Rods**
 
 TODO: Grab Photos when in machine shop
