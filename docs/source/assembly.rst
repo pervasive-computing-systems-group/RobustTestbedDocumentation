@@ -46,12 +46,13 @@ Building the UAV Frame
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Base Plate
-''''''''''''''''''
+~~~~~~~~~~~~
 
 This is the content of the subsubsection.
 
-Arms
-''''''''''''''''''
+
+Carbon Fiber Arms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Required Materials**
 
@@ -109,16 +110,17 @@ Before getting started, go over the following resources on how to use thermoplas
 ..  youtube:: hwq15qH-4x4
     :width: 100%
 
-Additionally there is a l and make a jig 
+As shown in the video a jig for the iron helps create a better product. You can follow the instructions 
+to make one from `adafruit <https://learn.adafruit.com/heat-set-rig?view=all>`_
 
-https://learn.adafruit.com/heat-set-rig?view=all
+
 
 
 Landing Legs
-''''''''''''''''''
+~~~~~~~~~~~~~~~~
 
-PCB
-''''''''''''''''''
+PCB & Electronics
+~~~~~~~~~~~~~~~~~~~~
 
 
 
