@@ -119,7 +119,40 @@ Landing Legs
 
 PCB
 ''''''''''''''''''
+**Required Materials**
 
+* 1 - Custom PCB Drone Frame
+* 1 - 0.001 Ohm Current Sense Resistor
+* 1 - 0402 2 kOhm SMD Resistor
+* 1 - 0402 8 kOhm SMD Resistor
+* 1 - 0805 47 kOhm SMD Resistor
+* 1 - IN9 Voltage to Current Amplifier
+* 1 - JST-GH Connector
+* 4 - KDEDirect KDEXF-UAS35 ESC
+* 1 - KDEDirect KDEXF-UBEC22 Battery Eliminator Circuit
+* 1 - EC5 Male Battery Connector
+* Solder Iron, Solder Paste, Solder Wire, Other Soldering Accessories as Needed
+* Tweezers
+**The Board Before Beginning**
+.. image:: images/BlurryBlank.jpg
+    :width: 300
+  :alt: The Blank Board
+
+
+**Surface Mount Soldering**
+\tBegin with a clear workspace, and using the soldering paste with the narrowest needle available, begin to apply the solder to the SMD pads. For the larger pads, 
+this is the end of this step, for the very small and close pads, continue reading. Do not worry about solder bridges at this point. Using the tweezers spread
+the solder evenly across pads, possibly removing solder to make a very thin layer of paste across all pads. Now we will deal with the solder bridges by using the 
+tweezers to carefully scrape between pads, removing the excess solder. 
+
+\tNow we will begin placing the SMD devices. A Pick and Place machine would be preferable for this step because of the small sizes of the devices, but is not
+required. Most of the device placements should be relatively simple to figure out by matching pad placements on the device to pads on the board. However because the
+2k and 8k resistors are the same size, it is specified that the 8k resistor should go in the spot closer to the largest current sense resistors, while the 2k resistor
+should be placed in the spot nearer the center of the board. The assembly drawings are below.
+
+TODO: Add assembly drawings
+
+\t
 
 
 
