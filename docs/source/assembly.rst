@@ -42,16 +42,10 @@ List materials need for this page
     * Drill holes in tubes
     * Bolt Together
 
-Building the UAV Frame
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-Base Plate
-''''''''''''''''''
 
-This is the content of the subsubsection.
-
-Arms
-''''''''''''''''''
+Creating the Carbon Fiber Arms
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 **Required Materials**
 
@@ -109,16 +103,36 @@ Before getting started, go over the following resources on how to use thermoplas
 ..  youtube:: hwq15qH-4x4
     :width: 100%
 
-Additionally there is a l and make a jig 
+As shown in the video a jig for the iron helps create a better product. You can follow the instructions 
+to make one from `adafruit <https://learn.adafruit.com/heat-set-rig?view=all>`_
 
-https://learn.adafruit.com/heat-set-rig?view=all
+
+Using a soldering iron melt the thermoplastic inserts into the arm mounts. If you aren't using the insert press ensure that the inserts are straight; a good way of checking
+is to use a screw to spot the normality of the bolt. The plastic will still be warm enough for fine adjustments. Once all the inserts have been 
+added the arms are now complete and should look like the following:
+
+.. image:: images/ArmInserts.jpg
+  :width: 400
+  :alt: Thermoplastic inserts added to arm mounts
 
 
-Landing Legs
-''''''''''''''''''
+Assemble Lower Frame
+~~~~~~~~~~~~~~~~~~~~~~
 
-PCB
-''''''''''''''''''
+.. image:: images/LowerFrameMaterials.jpg
+  :width: 400
+  :alt: Glued Arms in Molds
+
+.. image:: images/MountedArm.jpg
+  :width: 400
+  :alt: Glued Arms in Molds
+
+
+Assemble Landing Legs
+~~~~~~~~~~~~~~~~~~~~~~
+
+PCB & Electronics
+~~~~~~~~~~~~~~~~~~~~
 **Required Materials**
 
 * 1 - Custom PCB Drone Frame
@@ -133,9 +147,11 @@ PCB
 * 1 - EC5 Male Battery Connector
 * Solder Iron, Solder Paste, Solder Wire, Other Soldering Accessories as Needed
 * Tweezers
+
 **The Board Before Beginning**
+
 .. image:: images/BlurryBlank.jpg
-    :width: 300
+  :width: 300
   :alt: The Blank Board
 
 
