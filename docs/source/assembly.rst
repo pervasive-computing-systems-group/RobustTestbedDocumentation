@@ -122,11 +122,11 @@ PCB
 **Required Materials**
 
 * 1 - Custom PCB Drone Frame
-* 1 - 0.001 Ohm Current Sense Resistor
-* 1 - 0402 2 kOhm SMD Resistor
-* 1 - 0402 8 kOhm SMD Resistor
-* 1 - 0805 47 kOhm SMD Resistor
-* 1 - IN9 Voltage to Current Amplifier
+* 1 - 0.001 Ohm Current Sense Resistor(SMD)
+* 1 - 0402 2 kOhm SMD Resistor(SMD)
+* 1 - 0402 8 kOhm SMD Resistor(SMD)
+* 1 - 0805 47 kOhm SMD Resistor(SMD)
+* 1 - IN9 Voltage to Current Amplifier(SMD)
 * 1 - JST-GH Connector
 * 4 - KDEDirect KDEXF-UAS35 ESC
 * 1 - KDEDirect KDEXF-UBEC22 Battery Eliminator Circuit
@@ -145,15 +145,41 @@ this is the end of this step, for the very small and close pads, continue readin
 the solder evenly across pads, possibly removing solder to make a very thin layer of paste across all pads. Now we will deal with the solder bridges by using the 
 tweezers to carefully scrape between pads, removing the excess solder. 
 
+.. image:: images/SolderOnBoard.jpg
+    :width: 300
+  :alt: Solder paste on the board before the devices are placed. It may not look pretty, but note there are no solder bridges.
+
 \tNow we will begin placing the SMD devices. A Pick and Place machine would be preferable for this step because of the small sizes of the devices, but is not
 required. Most of the device placements should be relatively simple to figure out by matching pad placements on the device to pads on the board. However because the
 2k and 8k resistors are the same size, it is specified that the 8k resistor should go in the spot closer to the largest current sense resistors, while the 2k resistor
-should be placed in the spot nearer the center of the board. The assembly drawings are below.
+should be placed in the spot nearer the center of the board. The assembly drawings are below for reference.
 
 TODO: Add assembly drawings
 
-\t
+\tOnce the SMD devices have been placed, use either a reflow oven or a heat gun to cure the solder.
 
+.. image:: images/FinishedSMD.jpg
+    :width: 300
+  :alt: The Board with Completed SMD Soldering
+
+\tNow that the SMD soldering is finished, we will move to the through-hole soldering. One at a time, solder the four KDEDirect KDEXF-UAS35 ESCs to the four corner ports of
+the board. All through-hole wires should emerge from the board from the opposite side that the surface mount devices are. Ensure to place the red wire in the positive terminal. 
+Next, solder the singular KDEDirect KDEXF-UBEC22 Battery Eliminator Circuit in a similar fashion to the left middle terminals on the board. Finally, place the JST-GH Connector
+into the large terminals near the SMD devices. See the photo for reference.
+
+.. image:: images/InProgressThruHole.jpg
+    :width: 300
+  :alt: Through-hole soldering in progress with 1 ESC and the battery connector put into place.
+
+.. image:: images/CompletedThruHole.jpg
+    :width: 300
+  :alt: Completed through-hole board with the battery eliminator circuit on the left.
+
+**Soldering Tips**
+
+* Place as little as possible solder on the board when doing the SMD devices, it is much easier to try again that to remove a device that has solder bridges.
+* Turn up the heat on the soldering iron for the thicker through-hole wires. It is difficult to keep them hot enough.
+* Take your time, this is a very slow process and there is not a quick way through it.
 
 
 
