@@ -119,6 +119,8 @@ added the arms are now complete and should look like the following:
 Assemble Lower Frame
 ~~~~~~~~~~~~~~~~~~~~~~
 
+First 
+
 .. image:: images/LowerFrameMaterials.jpg
   :width: 400
   :alt: Glued Arms in Molds
@@ -162,7 +164,7 @@ the solder evenly across pads, possibly removing solder to make a very thin laye
 tweezers to carefully scrape between pads, removing the excess solder. 
 
 .. image:: images/SolderOnBoard.jpg
-    :width: 300
+  :width: 300
   :alt: Solder paste on the board before the devices are placed. It may not look pretty, but note there are no solder bridges.
 
 \tNow we will begin placing the SMD devices. A Pick and Place machine would be preferable for this step because of the small sizes of the devices, but is not
@@ -175,7 +177,7 @@ TODO: Add assembly drawings
 \tOnce the SMD devices have been placed, use either a reflow oven or a heat gun to cure the solder.
 
 .. image:: images/FinishedSMD.jpg
-    :width: 300
+  :width: 300
   :alt: The Board with Completed SMD Soldering
 
 \tNow that the SMD soldering is finished, we will move to the through-hole soldering. One at a time, solder the four KDEDirect KDEXF-UAS35 ESCs to the four corner ports of
@@ -184,11 +186,11 @@ Next, solder the singular KDEDirect KDEXF-UBEC22 Battery Eliminator Circuit in a
 into the large terminals near the SMD devices. See the photo for reference.
 
 .. image:: images/InProgressThruHole.jpg
-    :width: 300
+  :width: 300
   :alt: Through-hole soldering in progress with 1 ESC and the battery connector put into place.
 
 .. image:: images/CompletedThruHole.jpg
-    :width: 300
+  :width: 300
   :alt: Completed through-hole board with the battery eliminator circuit on the left.
 
 **Soldering Tips**
