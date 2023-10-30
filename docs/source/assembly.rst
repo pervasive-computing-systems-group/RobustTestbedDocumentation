@@ -119,11 +119,15 @@ added the arms are now complete and should look like the following:
 Assemble Lower Frame
 ~~~~~~~~~~~~~~~~~~~~~~
 
-First 
+First mount the Orange Cube to the carbon fiber base plate with the provided screws. The arrow on the cube should face
+towards the two additional holes in the base plate. Next you'll also need the glued arms, the landing leg mounts and the
+M3 bolts. Below is an image of all those items:
 
 .. image:: images/LowerFrameMaterials.jpg
   :width: 400
   :alt: Glued Arms in Molds
+
+Next is to mount the arms and leg mounts to the carbon fiber plate. Each corner requires 3 bolts, repeat
 
 .. image:: images/MountedArm.jpg
   :width: 400
@@ -132,6 +136,8 @@ First
 
 Assemble Landing Legs
 ~~~~~~~~~~~~~~~~~~~~~~
+
+
 
 PCB & Electronics
 ~~~~~~~~~~~~~~~~~~~~
