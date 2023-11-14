@@ -200,7 +200,22 @@ into the large terminals near the SMD devices. See the photo for reference.
 * Take your time, this is a very slow process and there is not a quick way through it.
 
 
+Final Assembly
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
+**Required Materials**
+
+* Cube Orange
+* 4 - Motors
+* 4 - Completed Arm Assemblies
+* Telemetry Radio
+* Receiver
+* Completed PCB with soldered ESCs
+* Velcro
+* Zip Ties 
+* Special Wire
+* GPS Module
+* Legs
 
 
 
