@@ -24,13 +24,13 @@ List materials need for this page
 
 #. PCB
     * Solder Components
-    * Veifity
+    * Verify
 
 #. Arms
     * Print Motor Mounts
     * Print Arm Nodes
     * Print Mold - 1 % scale
-    * Cut Tubes to kegnth
+    * Cut Tubes to length
     * Insert Threaded Inserts
     * Glue together
 
@@ -38,7 +38,7 @@ List materials need for this page
 #. Landing Legs
     * Print Leg Mounts
     * Print Leg Joint
-    * Cut tubes to legnth
+    * Cut tubes to length
     * Drill holes in tubes
     * Bolt Together
 
@@ -61,7 +61,7 @@ Creating the Carbon Fiber Arms
 **Gluing Arms Together**
 
 Before gluing, clear your work table. Use either a silicon mat or lay paper towels across your work table as you don't want
-to get JB weld ever where. You also want a pair of gloves, a cup to mix the JB weld in and a stiring stick. 
+to get JB weld ever where. You also want a pair of gloves, a cup to mix the JB weld in and a stirring stick. 
 
 After that grab your carbon rods, arm mounts, motor mounts and molds. Below is a picture of all those components.
 
