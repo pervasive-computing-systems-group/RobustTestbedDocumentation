@@ -132,6 +132,7 @@ First
 
 Assemble Landing Legs
 ~~~~~~~~~~~~~~~~~~~~~~
+* TODO
 
 PCB & Electronics
 ~~~~~~~~~~~~~~~~~~~~
@@ -180,6 +181,10 @@ TODO: Add assembly drawings
   :width: 300
   :alt: The Board with Completed SMD Soldering
 
+\tBefore we can move on, we must test the board to ensure proper connection of the electrical components. The most important of these is checking that there is not a short
+between both terminals each of the resistor as well as both terminals of the capacitor. This can be done easiest with a multimeter. Also be sure to visually inspect the Integrated
+Circuit pins to make sure there is not a solder bridge between pins. Only move on to the next step once you are sure that you have a correct board.
+
 \tNow that the SMD soldering is finished, we will move to the through-hole soldering. One at a time, solder the four KDEDirect KDEXF-UAS35 ESCs to the four corner ports of
 the board. All through-hole wires should emerge from the board from the opposite side that the surface mount devices are. Ensure to place the red wire in the positive terminal. 
 Next, solder the singular KDEDirect KDEXF-UBEC22 Battery Eliminator Circuit in a similar fashion to the left middle terminals on the board. Finally, place the JST-GH Connector
@@ -217,6 +222,23 @@ Final Assembly
 * GPS Module
 * Legs
 
+
+
+**Motor, GPS, and Cube Mounting**
+* TODO
+
+
+
+
+
+**Electrical Connections**
+* TODO
+
+
+
+Conclusion
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Now that you have a working drone continue to the First Flight page for information on getting it in the air.
 
 
 
