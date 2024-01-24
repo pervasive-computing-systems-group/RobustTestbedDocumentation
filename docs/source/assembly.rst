@@ -137,6 +137,9 @@ Next is to mount the arms and leg mounts to the carbon fiber plate. Each corner 
 Assemble Landing Legs
 ~~~~~~~~~~~~~~~~~~~~~~
 
+Cutting Motor Leads & Mounting Motors
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
 
 
 PCB & Electronics
