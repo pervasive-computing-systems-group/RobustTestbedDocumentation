@@ -24,13 +24,13 @@ List materials need for this page
 
 #. PCB
     * Solder Components
-    * Veifity
+    * Verify
 
 #. Arms
     * Print Motor Mounts
     * Print Arm Nodes
     * Print Mold - 1 % scale
-    * Cut Tubes to kegnth
+    * Cut Tubes to length
     * Insert Threaded Inserts
     * Glue together
 
@@ -38,7 +38,7 @@ List materials need for this page
 #. Landing Legs
     * Print Leg Mounts
     * Print Leg Joint
-    * Cut tubes to legnth
+    * Cut tubes to length
     * Drill holes in tubes
     * Bolt Together
 
@@ -61,7 +61,7 @@ Creating the Carbon Fiber Arms
 **Gluing Arms Together**
 
 Before gluing, clear your work table. Use either a silicon mat or lay paper towels across your work table as you don't want
-to get JB weld ever where. You also want a pair of gloves, a cup to mix the JB weld in and a stiring stick. 
+to get JB weld ever where. You also want a pair of gloves, a cup to mix the JB weld in and a stirring stick. 
 
 After that grab your carbon rods, arm mounts, motor mounts and molds. Below is a picture of all those components.
 
@@ -136,6 +136,7 @@ Next is to mount the arms and leg mounts to the carbon fiber plate. Each corner 
 
 Assemble Landing Legs
 ~~~~~~~~~~~~~~~~~~~~~~
+* TODO
 
 Cutting Motor Leads & Mounting Motors
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
@@ -189,6 +190,10 @@ TODO: Add assembly drawings
   :width: 300
   :alt: The Board with Completed SMD Soldering
 
+\tBefore we can move on, we must test the board to ensure proper connection of the electrical components. The most important of these is checking that there is not a short
+between both terminals each of the resistor as well as both terminals of the capacitor. This can be done easiest with a multimeter. Also be sure to visually inspect the Integrated
+Circuit pins to make sure there is not a solder bridge between pins. Only move on to the next step once you are sure that you have a correct board.
+
 \tNow that the SMD soldering is finished, we will move to the through-hole soldering. One at a time, solder the four KDEDirect KDEXF-UAS35 ESCs to the four corner ports of
 the board. All through-hole wires should emerge from the board from the opposite side that the surface mount devices are. Ensure to place the red wire in the positive terminal. 
 Next, solder the singular KDEDirect KDEXF-UBEC22 Battery Eliminator Circuit in a similar fashion to the left middle terminals on the board. Finally, place the JST-GH Connector
@@ -209,8 +214,40 @@ into the large terminals near the SMD devices. See the photo for reference.
 * Take your time, this is a very slow process and there is not a quick way through it.
 
 
+Final Assembly
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+**Required Materials**
+
+* Cube Orange
+* 4 - Motors
+* 4 - Completed Arm Assemblies
+* Telemetry Radio
+* Receiver
+* Completed PCB with soldered ESCs
+* Velcro
+* Zip Ties 
+* Special Wire
+* GPS Module
+* Legs
 
 
+
+**Motor, GPS, and Cube Mounting**
+* TODO
+
+
+
+
+
+**Electrical Connections**
+* TODO
+
+
+
+Conclusion
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Now that you have a working drone continue to the First Flight page for information on getting it in the air.
 
 
 
